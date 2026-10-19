@@ -1,0 +1,14 @@
+{
+  "name":"محاسبه‌گر قیمت کابینت",
+  "short_name":"کابینت",
+  "description":"محاسبه‌گر قیمت کابینت‌سازی",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "orientation":"portrait",
+  "dir":"rtl",
+  "lang":"fa",
+  "theme_color":"#8B5A2B",
+  "background_color":"#F6EEE2",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
